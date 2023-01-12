@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "19721287143",
+    "project_id": "meet-par",
+    "storage_bucket": "meet-par.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19721287143:android:a5b3ccd9c2b8766208f942",
+        "android_client_info": {
+          "package_name": "com.example.meet_par"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19721287143-lguf2isua6f6kki3vdqt1ircde7imqgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meet_par",
+            "certificate_hash": "ca8edd98705c775c7f5a39d74fd2a113a32d69bb"
+          }
+        },
+        {
+          "client_id": "19721287143-juqj9rsl08ck1db7keelpj94abuq4ol1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbq87EfXeqL7AprDLD8M3n9ThX0vR9uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19721287143-juqj9rsl08ck1db7keelpj94abuq4ol1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19721287143-iih0fk1vg9vrrdifcp9iru9ki6ddpm4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meetPar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
